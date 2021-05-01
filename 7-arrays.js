@@ -19,5 +19,3 @@ console.log(selectedColors[1]); // console shows blue
 selectedColors[3] = 23;
 
 console.log(selectedColors[3]); // console shows 23
-
-console.typeof(selectedColors[2],selectedColors[3]);

@@ -22,3 +22,5 @@ let City = 'NYC', Country;
 
 // City is in this example is defined, We can know this by seeing that it has a (=)
 // Country is undefind because it does not contain a (=) in it
+
+// in rare cases some will type (= undefind;) in that case is still undefind altho it has (=) in it

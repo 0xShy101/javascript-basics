@@ -5,6 +5,8 @@ let person = {
     age: 19,
 };
 
+// we use {} to identify an object
+
 /* 
 note that inside objects we end with (,) instead of (;)
 and use (:) instead of (=)
