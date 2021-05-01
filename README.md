@@ -1,0 +1,1 @@
+in this repository I will share my coding journey while learning the basics of javascript
