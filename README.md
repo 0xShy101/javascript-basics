@@ -1,6 +1,6 @@
 # javascript-basics
 
-in this repository I will share my coding journey while learning the basics of javascript-Back-end
+sharing my coding journey while learning the basics of JavaScript-Back-end
 
 you can try everything I learned and experiment with it by downloading it on your local machine and running it using Node.js
 
