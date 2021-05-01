@@ -11,12 +11,12 @@ node <file-name>
 
 if you don't have Node.js, you can use the index.html file to run it on the web
 
-###Languages I used
+### Languages I used
 
 !- JavaScript
 !- HTML
 
-###Development Tools & Environment used throughout this project:
+### Development Tools & Environment used throughout this project:
 
 !- Linux
 !- node.js
